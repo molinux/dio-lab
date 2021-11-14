@@ -11,3 +11,5 @@ My laboratory of experiments on the journey of Digital Innovation One
 
 **myDinoGame** - My version of the dino game
 
+**catAPI** - API and Promises lab with async/await and fetch functions
+
