@@ -13,3 +13,5 @@ My laboratory of experiments on the journey of Digital Innovation One
 
 **catAPI** - API and Promises lab with async/await and fetch functions
 
+**Map, Filter and Reduce** - Map, filter and Reduce study cases
+
