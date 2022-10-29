@@ -15,5 +15,7 @@ My laboratory of experiments on the journey of Digital Innovation One
 
 **Map, Filter and Reduce** - Map, filter and Reduce study cases
 
-**iac1.sh** - Infra As A Code Script from Impulso DevOps Course
+**iac1.sh** - Infra As A Code Script from Impulso DevOps Course - Directories, Groups, Users and Permissions
+
+**iac2.sh** - Infra As A Code Script from Impulso DevOps Course - Apache Server with Site
 
