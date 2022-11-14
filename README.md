@@ -21,4 +21,4 @@ My laboratory of experiments on the journey of Digital Innovation One
 
 **docker-compose-app-web** - A docker-compose example
 
-**docker-swarm-cicd** - A complete and automation docker swarm solution using Vagrant
+**docker-swarm-vagrant** - A complete and automation docker swarm solution using Vagrant
