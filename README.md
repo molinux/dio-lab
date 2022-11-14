@@ -19,3 +19,6 @@ My laboratory of experiments on the journey of Digital Innovation One
 
 **iac2.sh** - Infra As A Code Script from Impulso DevOps Course - Apache Server with Site
 
+**docker-compose-app-web** - A docker-compose example
+
+**docker-swarm-cicd** - A complete and automation docker swarm solution using Vagrant
