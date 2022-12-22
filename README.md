@@ -22,3 +22,5 @@ My laboratory of experiments on the journey of Digital Innovation One
 **docker-compose-app-web** - A docker-compose example
 
 **docker-swarm-vagrant** - A complete and automation docker swarm solution using Vagrant
+
+**k8s-projeto1-app-base** - Kubernetes on premisse deploy lab using LAMP
